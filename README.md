@@ -1,13 +1,22 @@
-# Superstore Sales Dashboard 📊
+📊 Superstore Sales Dashboard
+This project analyzes four years of retail sales data from a global Superstore using Power BI.
 
-This project analyzes sales data from a Superstore dataset using Power BI.
+🔍 Key Features:
 
-## Key Features
-- Dynamic visuals for Category, Sub-Category, Region, and Time
-- Sales, Profit, and Quantity analysis
-- Interactive slicers for year and category
+Interactive visuals to explore Category, Sub-Category, Region, and Time-based trends
 
-## Tools Used
-- Power BI
-- Excel
-- Data Visualization
+Insights into Sales, Profit, and Quantity performance
+
+Dynamic slicers for filtering by Year and Category
+
+🛠 Tools Used:
+
+Power BI (.pbix file: Superstore sales dashboard.pbix)
+
+Excel
+
+Data Visualization
+
+📷 Dashboard Preview:
+Included superstore dashboard.png as a snapshot of the final report
+
